@@ -1,0 +1,222 @@
+region,rank_multi,rank_life_sat,AR_rank,LS_rank
+Western Norway,1,21,1,21
+Trøndelag,2,24,2,24
+Central Switzerland,3,6,3,6
+Småland with Islands,4,26,4,26
+Stockholm,5,30,5,30
+Greater London,6,90,6,90
+West Sweden,7,36,7,36
+Budapest,8,177,8,177
+Madrid,9,140,9,140
+Prague,10,105,10,105
+Luxembourg,11,65,11,65
+Thuringia,12,69,12,69
+Walloon Region,13,93,13,93
+Drenthe,14,5,14,5
+Agder and Sør-Østlandet,15,18,15,18
+North Middle Sweden,16,53,16,53
+Åland,17,16,17,16
+Greater Reykjavík,18,22,18,22
+Eastern and Northern Finland,19,14,19,14
+Central Norrland,20,35,20,35
+Zurich,21,12,21,12
+Espace Mittelland,22,32,22,32
+North Estonia,23,154,23,154
+Upper Norrland,24,27,24,27
+Ticino,25,70,25,70
+Warsaw capital region,26,148,26,148
+Northwestern Switzerland,27,37,27,37
+Southern,28,82,28,82
+Southern Finland,29,19,29,19
+Corsica,30,59,30,59
+Other regions,31,7,31,7
+Central Jutland,32,10,32,10
+Southern Denmark,33,8,33,8
+Northern Norway,34,20,34,20
+Northern Jutland,35,3,35,3
+North Brabant,36,23,36,23
+East Middle Sweden,37,46,37,46
+Eastern Switzerland,38,11,38,11
+Northern and Western,39,66,39,66
+Saxony,40,95,40,95
+Pomerania,41,182,41,182
+Oslo and Viken,42,13,42,13
+Zealand,43,2,43,2
+Capital City Region,44,17,44,17
+Innlandet,45,48,45,48
+La Rioja,46,127,46,127
+Castile and León,47,139,47,139
+Utrecht,48,28,48,28
+Gelderland,49,42,49,42
+Brittany,50,88,50,88
+Lake Geneva Region,51,15,51,15
+Saarland,52,74,52,74
+Navarra,53,128,53,128
+Salzburg,54,43,54,43
+South East England,55,76,55,76
+Île-de-France,56,97,56,97
+Limburg,57,50,57,50
+Balearic Islands,58,92,58,92
+Auvergne-Rhône-Alpes,59,98,59,98
+Helsinki-Uusimaa,60,4,60,4
+Zeeland,61,9,61,9
+Flemish Region,62,91,62,91
+Scotland,63,56,63,56
+Western Transdanubia,64,145,64,145
+Central Transdanubia,65,166,65,166
+Nouvelle-Aquitaine,66,96,66,96
+Basque Country,67,133,67,133
+Brandenburg,68,67,68,67
+Pays de la Loire,69,159,69,159
+Western Finland,70,1,70,1
+Flevoland,71,41,71,41
+North Holland,72,40,72,40
+Western Slovenia,73,125,73,125
+Groningen,74,25,74,25
+Rhineland-Palatinate,75,71,75,71
+Galicia,76,179,76,179
+Pest,77,183,77,183
+South Sweden,78,34,78,34
+Kaunas county,79,161,79,161
+Molise,80,110,80,110
+Vilnius county,81,135,81,135
+Upper Austria,82,44,82,44
+Cantabria,83,106,83,106
+Northeast Estonia,84,206,84,206
+Klaipeda county,85,134,85,134
+Hesse,86,123,86,123
+Bavaria,87,75,87,75
+Extremadura,88,210,88,210
+South Holland,89,29,89,29
+Lower Austria,90,45,90,45
+Southern Great Plain,91,174,91,174
+Madeira (autonomous region),92,180,92,180
+Province of Trento,93,114,93,114
+Occitanie,94,121,94,121
+Eastern and Midland,95,72,95,72
+Southern Estonia,96,160,96,160
+Asturias,97,220,97,220
+Baden-Württemberg,98,60,98,60
+Azores (autonomous region),99,189,99,189
+East of England,100,73,100,73
+Overijssel,101,33,101,33
+La Réunion,102,109,102,109
+North West England,103,58,103,58
+Hauts-de-France,104,138,104,138
+Berlin,105,89,105,89
+Lower Silesia,106,173,106,173
+Mecklenburg-Vorpommern,107,77,107,77
+Lesser Poland,108,185,108,185
+Normandy,109,108,109,108
+Burgenland,110,129,110,129
+Carinthia,111,31,111,31
+North East England,112,54,112,54
+Tyrol,113,39,113,39
+South West England,114,78,114,78
+Friesland,115,38,115,38
+Podlaskie,116,150,116,150
+Southwest,117,94,117,94
+Provence-Alpes-Côte d’Azur,118,111,118,111
+Northeast,119,83,119,83
+North Rhine-Westphalia,120,62,120,62
+Grand Est,121,131,121,131
+Greater Poland,122,156,122,156
+West Midlands,123,61,123,61
+West Pomerania,124,168,124,168
+Saxony-Anhalt,125,81,125,81
+Province of Bolzano-Bozen,126,113,126,113
+Southeast,127,102,127,102
+Bourgogne-Franche-Comté,128,115,128,115
+Aragon,129,116,129,116
+Umbria,130,64,130,64
+Lower Saxony,131,49,131,49
+Vorarlberg,132,47,132,47
+Panevežys county,133,172,133,172
+Silesia,134,194,134,194
+Kuyavian-Pomerania,135,200,135,200
+Eastern Slovenia,136,143,136,143
+Centre - Val de Loire,137,132,137,132
+Vidzeme,138,187,138,187
+Central Bohemian Region,139,86,139,86
+East Midlands,140,100,140,100
+Wales,141,80,141,80
+Lublin Province,142,157,142,157
+Mazowiecki region,143,144,143,144
+Pieriga,144,169,144,169
+Catalonia,145,124,145,124
+Valencia,146,101,146,101
+Schleswig-Holstein,147,57,147,57
+Alytus county,148,192,148,192
+Opole region,149,214,149,214
+Lubusz,150,158,150,158
+Hamburg,151,51,151,51
+Friuli-Venezia Giulia,152,170,152,170
+Brussels Capital Region,153,126,153,126
+Styria,154,55,154,55
+Metropolitan area of Lisbon,155,181,155,181
+Riga,156,165,156,165
+Southern Transdanubia,157,217,157,217
+Central Moravia,158,79,158,79
+Yorkshire and The Humber,159,85,159,85
+Mayotte,160,103,160,103
+Canary Islands,161,151,161,151
+Bremen,162,171,162,171
+Castile-La Mancha,163,175,163,175
+Northern Ireland,164,63,164,63
+Podkarpacia,165,204,165,204
+Swietokrzyskie,166,167,166,167
+Liguria,167,137,167,137
+Murcia,168,112,168,112
+Guadeloupe,169,117,169,117
+North Aegean,170,209,170,209
+Emilia-Romagna,171,120,171,120
+Lodzkie,172,203,172,203
+Marche,173,84,173,84
+Moravia-Silesia,174,52,174,52
+Sardinia,175,195,175,195
+Martinique,176,119,176,119
+Northern Hungary,177,186,177,186
+Northern Great Plain,178,202,178,202
+West Estonia,179,191,179,191
+South Aegean,180,155,180,155
+Vienna,181,68,181,68
+Andalusia,182,162,182,162
+Attica,183,213,183,213
+Central Portugal,184,211,184,211
+Tuscany,185,163,185,163
+Warmian-Masuria,186,146,186,146
+Central Estonia,187,176,187,176
+Taurage county,188,122,188,122
+Veneto,189,164,189,164
+Algarve,190,184,190,184
+Lazio,191,141,191,141
+Zemgale,192,199,192,199
+Northwest,193,99,193,99
+Alentejo,194,188,194,188
+North,195,196,195,196
+Lombardy,196,104,196,104
+French Guiana,197,107,197,107
+Marijampole county,198,118,198,118
+Aosta Valley,199,87,199,87
+Abruzzo,200,147,200,147
+Central Macedonia,201,215,201,215
+Apulia,202,130,202,130
+Epirus,203,201,203,201
+Šiauliai county,204,149,204,149
+Kurzeme,205,205,205,205
+Piedmont,206,190,206,190
+Utena county,207,142,207,142
+Basilicata,208,136,208,136
+Sicily,209,152,209,152
+Crete,210,197,210,197
+Peloponnese,211,216,211,216
+Ionian Islands,212,212,212,212
+Telšiai county,213,178,213,178
+Latgale,214,193,214,193
+Calabria,215,198,215,198
+Western Greece,216,207,216,207
+Campania,217,153,217,153
+Thessaly,218,221,218,221
+Western Macedonia,219,219,219,219
+Central Greece,220,218,220,218
+"Eastern Macedonia, Thrace",221,208,221,208

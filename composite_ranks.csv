@@ -1,0 +1,222 @@
+Region,0
+Burgenland,85.0
+Lower Austria,58.0
+Vienna,131.0
+Carinthia,87.0
+Styria,100.0
+Upper Austria,53.0
+Salzburg,65.0
+Tyrol,71.0
+Vorarlberg,91.0
+Brussels Capital Region,152.0
+Flemish Region,27.0
+Walloon Region,93.0
+Prague,119.0
+Central Bohemian Region,142.0
+Southwest,133.0
+Northwest,173.0
+Northeast,141.0
+Southeast,137.0
+Central Moravia,155.0
+Moravia-Silesia,178.0
+Capital City Region,29.0
+Zealand,34.0
+Southern Denmark,23.0
+Central Jutland,18.0
+Northern Jutland,20.0
+North Estonia,118.0
+West Estonia,134.0
+Southern Estonia,125.0
+Central Estonia,172.0
+Northeast Estonia,215.0
+Western Finland,59.0
+Helsinki-Uusimaa,44.0
+Southern Finland,48.0
+Eastern and Northern Finland,68.0
+Åland,88.0
+Île-de-France,79.0
+Centre - Val de Loire,66.0
+Bourgogne-Franche-Comté,54.0
+Normandy,60.0
+Hauts-de-France,97.0
+Grand Est,77.0
+Pays de la Loire,36.0
+Brittany,25.0
+Nouvelle-Aquitaine,49.0
+Occitanie,67.0
+Auvergne-Rhône-Alpes,45.0
+Provence-Alpes-Côte d’Azur,84.0
+Corsica,105.0
+Guadeloupe,180.0
+Martinique,168.0
+French Guiana,217.0
+La Réunion,156.0
+Mayotte,219.0
+Baden-Württemberg,75.0
+Bavaria,69.0
+Berlin,94.0
+Brandenburg,81.0
+Bremen,110.0
+Hamburg,98.0
+Hesse,76.0
+Mecklenburg-Vorpommern,72.0
+Lower Saxony,83.0
+North Rhine-Westphalia,99.0
+Rhineland-Palatinate,63.0
+Saarland,57.0
+Saxony,74.0
+Saxony-Anhalt,111.0
+Schleswig-Holstein,86.0
+Thuringia,51.0
+Attica,204.0
+North Aegean,208.0
+South Aegean,193.0
+Crete,200.0
+"Eastern Macedonia, Thrace",221.0
+Central Macedonia,211.0
+Western Macedonia,220.0
+Epirus,198.0
+Thessaly,218.0
+Ionian Islands,209.0
+Western Greece,212.0
+Central Greece,216.0
+Peloponnese,201.0
+Budapest,109.0
+Pest,140.0
+Central Transdanubia,126.0
+Western Transdanubia,129.0
+Southern Transdanubia,154.0
+Northern Hungary,169.0
+Northern Great Plain,175.0
+Southern Great Plain,145.0
+Greater Reykjavík,41.0
+Other regions,43.0
+Northern and Western,62.0
+Southern,70.0
+Eastern and Midland,82.0
+Piedmont,147.0
+Aosta Valley,144.0
+Liguria,122.0
+Lombardy,139.0
+Abruzzo,157.0
+Molise,146.0
+Campania,207.0
+Apulia,177.0
+Basilicata,165.0
+Calabria,195.0
+Sicily,191.0
+Sardinia,153.0
+Province of Bolzano-Bozen,115.0
+Province of Trento,116.0
+Veneto,135.0
+Friuli-Venezia Giulia,106.0
+Emilia-Romagna,108.0
+Tuscany,130.0
+Umbria,121.0
+Marche,128.0
+Lazio,148.0
+Kurzeme,202.0
+Latgale,213.0
+Riga,192.0
+Pieriga,166.0
+Vidzeme,182.0
+Zemgale,186.0
+Vilnius county,171.0
+Alytus county,189.0
+Kaunas county,170.0
+Klaipeda county,176.0
+Marijampole county,203.0
+Panevežys county,188.0
+Šiauliai county,183.0
+Taurage county,187.0
+Telšiai county,199.0
+Utena county,205.0
+Luxembourg,9.0
+Groningen,39.0
+Friesland,40.0
+Drenthe,6.0
+Overijssel,35.0
+Gelderland,19.0
+Flevoland,30.0
+Utrecht,11.0
+North Holland,21.0
+South Holland,42.0
+Zeeland,33.0
+North Brabant,10.0
+Limburg,26.0
+Innlandet,15.0
+Trøndelag,2.0
+Northern Norway,7.0
+Oslo and Viken,5.0
+Agder and Sør-Østlandet,4.0
+Western Norway,1.0
+Lesser Poland,179.0
+Silesia,194.0
+Greater Poland,174.0
+West Pomerania,162.0
+Lubusz,190.0
+Lower Silesia,161.0
+Opole region,206.0
+Kuyavian-Pomerania,184.0
+Warmian-Masuria,214.0
+Pomerania,158.0
+Lodzkie,210.0
+Swietokrzyskie,197.0
+Lublin Province,185.0
+Podkarpacia,196.0
+Podlaskie,167.0
+Warsaw capital region,124.0
+Mazowiecki region,181.0
+North,143.0
+Algarve,163.0
+Central Portugal,138.0
+Metropolitan area of Lisbon,132.0
+Alentejo,151.0
+Azores (autonomous region),160.0
+Madeira (autonomous region),164.0
+Eastern Slovenia,149.0
+Western Slovenia,127.0
+Galicia,90.0
+Asturias,104.0
+Cantabria,117.0
+Basque Country,55.0
+Navarra,46.0
+La Rioja,56.0
+Aragon,80.0
+Madrid,61.0
+Castile and León,78.0
+Castile-La Mancha,136.0
+Extremadura,120.0
+Catalonia,95.0
+Valencia,112.0
+Balearic Islands,107.0
+Andalusia,150.0
+Murcia,123.0
+Canary Islands,159.0
+Stockholm,14.0
+East Middle Sweden,37.0
+Småland with Islands,17.0
+South Sweden,47.0
+West Sweden,24.0
+North Middle Sweden,28.0
+Central Norrland,22.0
+Upper Norrland,31.0
+Lake Geneva Region,38.0
+Espace Mittelland,13.0
+Northwestern Switzerland,16.0
+Zurich,8.0
+Eastern Switzerland,12.0
+Central Switzerland,3.0
+Ticino,64.0
+North East England,103.0
+North West England,89.0
+Yorkshire and The Humber,113.0
+East Midlands,102.0
+West Midlands,96.0
+East of England,52.0
+Greater London,73.0
+South East England,32.0
+South West England,50.0
+Wales,101.0
+Scotland,92.0
+Northern Ireland,114.0
